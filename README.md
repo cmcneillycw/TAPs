@@ -8,18 +8,18 @@ SFL TAPS Skip – How to Use
 
 4. Click “GO” to launch the module.
 
-5. If it’s “Financial Planning for Transition” or “VA Benefits and Services”, do not wait for the module to load.
+5. If it’s “Financial Planning for Transition” Copy use the following code:
+      cpAPIInterface.next()
+    
 
-    - For all others, wait until it loads.
+7. Right-click the page and choose Inspect.
 
-6. Right-click the page and choose Inspect.
+8. Go to the Console tab.
 
-7. Go to the Console tab.
-
-8. Paste the CONSOLE_CODE (copy all code from the Copy button).
+9. Paste the CONSOLE_CODE (copy all code from the Copy button).
 
     - You might need to allow pasting when prompted.
 
-9. Close the window — that module is now complete.
+10. Close the window — that module is now complete.
 
-10. Repeat for each module until all are done.
+11. Repeat for each module until all are done.
